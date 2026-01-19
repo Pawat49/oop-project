@@ -1,1 +1,2 @@
-print(type(1))
+a = "banana".strip("ab")
+print(a)
