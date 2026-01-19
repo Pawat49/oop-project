@@ -1,3 +1,2 @@
-a = "banana"
-a.strip("ab")
+a = "banana".strip("ab")
 print(a)
